@@ -1,0 +1,21 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Pp]ackages/packages-lock.json
+ProjectSettings/ProjectVersion.txt
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vs/
+*.sln
+*.csproj
+*.unityproj
+*.userprefs
